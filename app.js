@@ -438,11 +438,6 @@ function handleMessageButtom(senderId,event){
             },
             {
               "content_type": "text",
-              "title": "JW XR 21 años",
-              "payload": "JW_XR_21_PAYLOAD"
-            },
-            {
-              "content_type": "text",
               "title": "JW Blue",
               "payload": "JW_BLUE_PAYLOAD"
             }

@@ -478,11 +478,6 @@ function handleMessageButtom(senderId,event){
             },
             {
               "content_type": "text",
-              "title": "JW 21",
-              "payload": "JW_XR_21_PAYLOAD"
-            },
-            {
-              "content_type": "text",
               "title": "JW Blue",
               "payload": "JW_BLUE_PAYLOAD"
             }
@@ -533,11 +528,6 @@ function handleMessageButtom(senderId,event){
               "content_type": "text",
               "title": "JW 18 años",
               "payload": "JW_18_PAYLOAD"
-            },
-            {
-              "content_type": "text",
-              "title": "JW 21",
-              "payload": "JW_XR_21_PAYLOAD"
             },
             {
               "content_type": "text",

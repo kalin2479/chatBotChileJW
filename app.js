@@ -414,7 +414,7 @@ function handleMessageButtom(senderId,event){
           "id": senderId
         },
         "message": {
-          "text": "Recuerda que puedes encontrar el mejor regalo en nuestro exclusivo Pop Up Store en el centro comercial Real Plaza Salaverry – 2do nivel. ¿Qué tal si sorprendemos en estas fiestas con un Johnnie? ¿Cuál te gustaría regalar?",
+          "text": "Recuerda que puedes encontrar el mejor regalo en nuestro exclusivo Pop Up Store en el centro comercial Parque Arauco. ¿Qué tal si sorprendemos en estas fiestas con un Johnnie Walker? ¿Cuál te gustaría regalar? ",
           "quick_replies": [
             {
               "content_type": "text",
